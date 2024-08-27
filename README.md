@@ -1,5 +1,8 @@
 # egg-sequelize-ts
 
+**注意：这个项目已经不再维护或更新。可能存在安全漏洞或与当前技术栈不兼容的风险。请考虑使用其他更现代的解决方案。**
+
+
 ## 更改
 插件只是将 `egg-sequelize` 中的 sequelize 替换为 sequelize-typescript, 同时保证用户在 egg.js 创建的项目中使用 `egg-sequelize` 的方法尽量一致，在使用时的不同，我将下面一一阐述。 其他内容部分请查看 [egg-sequelize]('https://github.com/eggjs/egg-sequelize')。
 此插件已在生产项目中得到实践。
